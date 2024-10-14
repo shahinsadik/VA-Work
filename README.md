@@ -31,7 +31,7 @@ The **VAowork** backend is the core of the co-working space platform, powering f
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/shahinsadik/VA-Work
+    git clone https://github.com/shahinsadik/VA-Work-server
     ```
 
 2. Navigate to the project directory:
